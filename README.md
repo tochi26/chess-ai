@@ -4,7 +4,7 @@
 - Press 't' to change theme (green, brown, blue, gray)
 - Press 'r' to restart the game
 
-## DEMO 3
+## DEMO 
 [![View Demo](https://img.shields.io/badge/View%20Demo-blue.svg)](https://drive.google.com/file/d/1E3p4ls-o4jKGowoFW2pIiRaUODBukEPj/view?usp=sharing)
 
 
